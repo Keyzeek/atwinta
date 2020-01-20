@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "atwinta",
+            "dialect": "MariaDB",
+            "name": "Atwitna",
+            "password": "password",
+            "port": 3306,
+            "server": "localhost",
+            "username": "newuser"
+        }
+    ]
+}
